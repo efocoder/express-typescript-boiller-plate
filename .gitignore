@@ -1,0 +1,16 @@
+node_modules/**/*
+build/**/*
+certs/**/*
+
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+package-lock.json
+yarn.lock
+yarn-error.log
+config/config.json
+.env
